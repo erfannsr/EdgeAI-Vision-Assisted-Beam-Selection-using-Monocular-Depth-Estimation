@@ -31,12 +31,16 @@ The core goal of this research is to develop a real-time spatial tracking system
     * **RMSE** = 0.704
     * **δ1** =  0.693
 
+![model1](images/model1.jpg)
+![model2](images/model2.jpg)
+
 
 ### C. Datasets Used
 * For YOLO - Object Detection: Custom mobile phone dataset sourced via Roboflow containing 238 annotated images of mobile devices in various orientations, lighting conditions, and hand-held scenarios. It is primarily used to train the 2D object detection component (YOLOv8n) to localize the target for beamforming.
 
 * Monocular Depth Dataset: NYU2 - A large-scale indoor dataset containing 1,449 pairs of aligned RGB images and depth maps. It provides the ground truth depth data required to train the LightDepthNet model to understand indoor spatial geometry and provide floating-point distance estimations - real distance, not relative.
 
+![nyu2_sample](images/nyu2_sample.png)
 
 ---
 
