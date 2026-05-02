@@ -55,7 +55,7 @@ This project proposes a **vision-assisted beam selection system** using Edge AI 
 
 ### Datasets Used
 *   **Mobile Phone Detection Dataset [2]:** Sourced from **Roboflow**, this dataset contains annotated images of phones in various orientations and hand-held scenarios. It consists of approximately **238 annotated images**.
-![mobile_phone_detection](images/phone_detection_sample.png)
+![mobile_phone_detection](images/phone_detection_sample.jpeg)
 
 *   **NYU Depth V2 Dataset [3]:** Used for depth estimation training, containing **1449 RGB-depth image pairs** for ground truth indoor depth estimation.
 
