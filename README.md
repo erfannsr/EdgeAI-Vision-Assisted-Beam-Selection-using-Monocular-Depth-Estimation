@@ -150,3 +150,4 @@ python inference_live_rpi.py
 ## 📄 License
 
 This project is made in an effort for the course  `CP 330: Edge AI` at Indian Institute of Science.
+Link to course website: https://www.samy101.com/edge-ai-26/ 
